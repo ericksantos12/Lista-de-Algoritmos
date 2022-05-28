@@ -19,7 +19,7 @@ public class exercicio19 {
         if (delta < 0) {
             JOptionPane.showMessageDialog(null, "A equação não possui resultados reais");
         }        
-        else if (delta > 0) {
+        else {
             x1 = (-b + Math.sqrt(delta)) / (2 * a);
             x2 = (-b - Math.sqrt(delta)) / (2 * a);
             JOptionPane.showMessageDialog(null, "O x¹ é: " + x1 + "\nO x² é: " + x2);
