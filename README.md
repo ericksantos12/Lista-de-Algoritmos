@@ -35,5 +35,4 @@ Um somatório de N (informado pelo usuário) termos, escreva um programa para ca
 
 - [x] 83 - Escreva um programa em C, que gere a substring de uma string original, dado a posição inicial e a final da substring. 
 
-- [ ] 93 - Faça um programa em C para ler valores e armazená-los em uma matriz D 5 x 5. A seguir o programa deverá calcular a soma dos valores que compõem a diagonal principal e a diagonal secundária da matriz. P
-
+- [ ] 93 - Faça um programa em C para ler valores e armazená-los em uma matriz D 5 x 5. A seguir o programa deverá calcular a soma dos valores que compõem a diagonal principal e a diagonal secundária da matriz.
