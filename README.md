@@ -27,7 +27,7 @@ Um somatório de N (informado pelo usuário) termos, escreva um programa para ca
 
 - [x] 64 - Faça um programa em C que leia um array de 20 inteiros e imprima o menor e o maior valor dentre os elementos do array. 
 
-- [ ] 70 - Escreva um programa que carregue um array com tamanho variável. O tamanho máximo do array é de 100 posições (carga de array com sentinela). 
+- [x] 70 - Escreva um programa que carregue um array com tamanho variável. O tamanho máximo do array é de 100 posições (carga de array com sentinela). 
 
 - [x] 77 - Escreva um programa em C, que leia uma string, gere uma nova string com o texto invertido e imprima esta nova string. 
 
@@ -35,4 +35,4 @@ Um somatório de N (informado pelo usuário) termos, escreva um programa para ca
 
 - [x] 83 - Escreva um programa em C, que gere a substring de uma string original, dado a posição inicial e a final da substring. 
 
-- [ ] 93 - Faça um programa em C para ler valores e armazená-los em uma matriz D 5 x 5. A seguir o programa deverá calcular a soma dos valores que compõem a diagonal principal e a diagonal secundária da matriz.
+- [x] 93 - Faça um programa em C para ler valores e armazená-los em uma matriz D 5 x 5. A seguir o programa deverá calcular a soma dos valores que compõem a diagonal principal e a diagonal secundária da matriz.
