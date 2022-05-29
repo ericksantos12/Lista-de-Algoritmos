@@ -1,7 +1,7 @@
 # Lista de Exercícios de Algoritmo
 - [x] 4 - Dado os três lados de um triângulo determinar o perímetro do mesmo. 
 
-- [ ] 10 - Converter um inteiro informado menor que 32 para sua representação em binário 
+- [x] 10 - Converter um inteiro informado menor que 32 para sua representação em binário 
 
 - [x] 19 - Escreva um programa que calcule a raiz de uma equação do primeiro grau. 
 
@@ -17,15 +17,15 @@
 
 - [x] 45 - Escreva um programa que leia 5 números, e imprima a média entre eles.
 
-- [ ] 51 - A série de Fibonacci é formada pela sequencia: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
+- [x] 51 - A série de Fibonacci é formada pela sequencia: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
 Escreva um programa que gere a série de FIBONACCI até o N-ésimo termo (com N sendo uma entrada do algoritmo). 
 
-- [ ] 57 - Sendo
+- [x] 57 - Sendo
 
 $$ S = 1 + \frac{1}{2^{2}} + \frac{1}{3^{3}} + \frac{1}{4^{4}} + \frac{1}{5^{5}} + ... \frac{1}{N^{N}} $$
 Um somatório de N (informado pelo usuário) termos, escreva um programa para calcular S para um número N.
 
-- [ ] 64 - Faça um programa em C que leia um array de 20 inteiros e imprima o menor e o maior valor dentre os elementos do array. 
+- [x] 64 - Faça um programa em C que leia um array de 20 inteiros e imprima o menor e o maior valor dentre os elementos do array. 
 
 - [ ] 70 - Escreva um programa que carregue um array com tamanho variável. O tamanho máximo do array é de 100 posições (carga de array com sentinela). 
 
