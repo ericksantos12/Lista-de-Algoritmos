@@ -16,11 +16,14 @@ public class exercicio89 {
     }
 
     static String converteNome(String nome){
+        // Separa a string pelo caractere espaço, e armazena ela em um array
         String[] nomeSeparado = nome.split(" ");;
         String texto = "";
 
+        // Concatena o último elemento da array no texto
         texto += nomeSeparado[nomeSeparado.length - 1] + ", ";
 
+        // Pega os elementos restantes, pega o primeiro char deles e concatena no texto
         for (int i = 0; i < nomeSeparado.length - 1; i++) {
             texto += nomeSeparado[i].charAt(0) + ". ";
         }

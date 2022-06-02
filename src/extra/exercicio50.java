@@ -32,16 +32,21 @@ public class exercicio50 {
         int resultado = 0;
         String texto = "";
 
+        // Percorre entre o array dado1 e dado2
         for (int i = 0; i < dado1.length; i++) {
             for (int j = 0; j < dado2.length; j++) {
+                // Soma os elementos de cada dado e armazena na variável resultado
                 resultado = dado1[i] + dado2[j];
 
+                // Verifica se o resultado é igual ao valor inserido
+                // Se for igual ele concatena os dados resultantes na string texto
                 if (resultado == a) {
                     texto += dado1[i] + " " + dado2[j] + "\n";
                 }
             }
         }
 
+        // Verifica se o texto está vazio ou não, caso ele esteja, nenhum dos dados resultou no valor inserido
         if (texto.equals("")){
             texto = "Nenhum dos dados deu o resultado";
             return texto;
