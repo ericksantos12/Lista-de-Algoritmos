@@ -44,4 +44,4 @@ Exercícios fora da minha lista de exercícios, mas que eu achei genuinamente in
 
 - 89 - Escreva um programa que gere uma string composta pelo último nome, seguido de virgula e as iniciais dos demais nomes (em ordem), seguida de ponto. Por exemplo, se a string entrada for “Gabriel Garcia Marquez”, a string gerada deve ser “Marquez, G. G.”. ([Source](src/extra/exercicio89.java))
 
-- 94 - Escrever um algoritmo que leia uma matriz de valores inteiros 6 por 6 e um valor inteiro qualquer, posteriormente multiplicar a matriz pelo valor lido e colocar o resultado na própria matriz. ([Source](src/extra/exercicio94))
+- 94 - Escrever um algoritmo que leia uma matriz de valores inteiros 6 por 6 e um valor inteiro qualquer, posteriormente multiplicar a matriz pelo valor lido e colocar o resultado na própria matriz. ([Source](src/extra/exercicio94.java))
